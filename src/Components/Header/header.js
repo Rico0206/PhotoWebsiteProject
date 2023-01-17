@@ -2,8 +2,6 @@ import React from 'react';
 
 const Header = () => {
 
-    const listStyles = {
-    }
 
     return (
         <header>
@@ -12,7 +10,7 @@ const Header = () => {
                     <a class="nav-link" aria-current="page" href="#">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Portfolio</a>
+                    <a class="nav-link" href="/portfolio" >Portfolio</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">About</a>

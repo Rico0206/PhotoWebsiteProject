@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/PhotoWebsiteProject/static/css/main.2f2dd310.css",
+    "main.js": "/PhotoWebsiteProject/static/js/main.9e4b0258.js",
+    "static/js/787.08fa795f.chunk.js": "/PhotoWebsiteProject/static/js/787.08fa795f.chunk.js",
+    "static/media/sample9.jpg": "/PhotoWebsiteProject/static/media/sample9.0647bc9c1b70e4b4bd1c.jpg",
+    "static/media/sample10.jpg": "/PhotoWebsiteProject/static/media/sample10.9e7c6337cc60070d57a1.jpg",
+    "static/media/sample3.jpg": "/PhotoWebsiteProject/static/media/sample3.0c76e78bdf6206b21068.jpg",
+    "static/media/sample5.jpg": "/PhotoWebsiteProject/static/media/sample5.39224e7b5cdc3bc42af9.jpg",
+    "static/media/sample15.jpg": "/PhotoWebsiteProject/static/media/sample15.6d0cca61879a6827a9d1.jpg",
+    "static/media/sample20.jpg": "/PhotoWebsiteProject/static/media/sample20.cba9bf8d0686cbc46856.jpg",
+    "static/media/sample7.jpg": "/PhotoWebsiteProject/static/media/sample7.c9da670bfe00b27ee7ae.jpg",
+    "static/media/sample13.jpg": "/PhotoWebsiteProject/static/media/sample13.9b5c07c5b6c4dc149cca.jpg",
+    "static/media/sample17.jpg": "/PhotoWebsiteProject/static/media/sample17.1939995669e72bdbbaf8.jpg",
+    "static/media/sample6.jpg": "/PhotoWebsiteProject/static/media/sample6.ba2cbac6d8238f2c6c66.jpg",
+    "static/media/sample4.jpg": "/PhotoWebsiteProject/static/media/sample4.2a797067bfc3b7580bde.jpg",
+    "static/media/sample14.jpg": "/PhotoWebsiteProject/static/media/sample14.43e31c8c1796ca00a407.jpg",
+    "static/media/sample11.jpg": "/PhotoWebsiteProject/static/media/sample11.f690c1b82b82a978b30b.jpg",
+    "static/media/sample19.jpg": "/PhotoWebsiteProject/static/media/sample19.511b1badac031db66390.jpg",
+    "static/media/sample12.jpg": "/PhotoWebsiteProject/static/media/sample12.b7dcaade1d49485cc023.jpg",
+    "static/media/sample2.jpg": "/PhotoWebsiteProject/static/media/sample2.d57e58b9a8bae9701004.jpg",
+    "static/media/sample8.jpg": "/PhotoWebsiteProject/static/media/sample8.1035016779848bc42f2d.jpg",
+    "static/media/sample16.jpg": "/PhotoWebsiteProject/static/media/sample16.66756e1c6875ffc3fbb1.jpg",
+    "static/media/sample18.jpg": "/PhotoWebsiteProject/static/media/sample18.a496c2693025c8528c7a.jpg",
+    "static/media/sample1.jpg": "/PhotoWebsiteProject/static/media/sample1.cba3d418005ce277b0d9.jpg",
+    "index.html": "/PhotoWebsiteProject/index.html",
+    "main.2f2dd310.css.map": "/PhotoWebsiteProject/static/css/main.2f2dd310.css.map",
+    "main.9e4b0258.js.map": "/PhotoWebsiteProject/static/js/main.9e4b0258.js.map",
+    "787.08fa795f.chunk.js.map": "/PhotoWebsiteProject/static/js/787.08fa795f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f2dd310.css",
+    "static/js/main.9e4b0258.js"
+  ]
+}

@@ -1,9 +1,5 @@
 import React from 'react';
-import Footer from './Components/Footer/footer.js';
 import Header from './Components/Header/header.js'
-
-import Slider from './Components/PictureSlider/pictureSlider';
-import Options from './Components/PortfolioDiv/portfolioOptionDiv.js';
 
 import { Route, Routes } from 'react-router-dom';
 import MainPage from './Components/Pages/mainPage.js';
